@@ -1,0 +1,10 @@
+.Ball {
+    border-radius: 50%;
+    background-color: tomato;
+    width: 3rem;
+    height: 2.25rem;
+    padding-top: 0.75rem;
+    text-align: center;
+    margin-right: 0.5rem;
+    display: inline-block;
+}

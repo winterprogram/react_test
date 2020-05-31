@@ -1,11 +1,11 @@
 import React from 'react';
-import Die from './die';
+import logo from './logo.svg';
 import './App.css';
-
+import Testcomp from './testcomp'
 function App() {
   return (
     <div className="App">
-     <Die/>
+      <Testcomp/>
     </div>
   );
 }
